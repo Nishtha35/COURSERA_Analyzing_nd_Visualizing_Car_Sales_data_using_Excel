@@ -1,6 +1,6 @@
-# Analyzing-and-visualizing-Car-Sales-data-using-Excel.
+# Analyzing_And_Visualizing_Car_Sales_data_using_Excel
 
-To do:
+To do: <br>
 Create visualizations for the following captured KPI metrics:
 
 1) 'Quantity Sold' by 'Dealer ID' - as a bar chart, sorted in either ascending or descending order of quantity sold, and change the chart title to "Quantity Sold by Dealer ID".
